@@ -12,5 +12,5 @@ The purpose of this report is to provide a summary of the findings from the expl
 
 ## Results 
 
-The ride data and city data dataset were merged into one dataset using the Pandas merge function. The groupby() function was then used to calculate the total rides by city type; totoal drivers for each city type; the total amount of fares for each city type; the average fare per ride for each city type; and the average fare per driver for each city type. A new data frame was created to summarize the data.  
+The ride data and city data dataset were merged into one dataset using the Pandas merge function. The groupby() function was then used to calculate the total rides by city type; total drivers for each city type; the total amount of fares for each city type; the average fare per ride for each city type; and the average fare per driver for each city type. A new data frame was created to summarize the data.  
 ![summary_df.png]( https://github.com/AjaniBenoit/PyBer_Analysis/blob/main/summary_df.png)
