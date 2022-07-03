@@ -20,5 +20,5 @@ The ride data and city data dataset were merged into one dataset using the Panda
 An exploratory analysis of the data revealed the following:
 
 1.	Drivers from rural cities had the highest average fare per ride and the highest average fare per driver. urban cities had the lowest average fare per ride and average fare per driver.
-2.	Urban cities had the highest total rides and highest total number of drivers. Rural cities had the lowest number of total rides and the lowest total number of drivers. 
+2.	Urban cities had the highest total rides; the highest total fares; and highest total number of drivers. Rural cities had the lowest number of total rides and the lowest total number of drivers. 
 3.	The total number of drivers in urban cities outnumbered the total number of rides.
