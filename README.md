@@ -12,5 +12,13 @@ The purpose of this report is to provide a summary of the findings from the expl
 
 ## Results 
 
+### Summary of Exploratory Analysis
+
 The ride data and city data dataset were merged into one dataset using the Pandas merge function. The groupby() function was then used to calculate the total rides by city type; total drivers for each city type; the total amount of fares for each city type; the average fare per ride for each city type; and the average fare per driver for each city type. A new data frame was created to summarize the data.  
 ![summary_df.png]( https://github.com/AjaniBenoit/PyBer_Analysis/blob/main/summary_df.png)
+
+An exploratory analysis of the data revealed the following:
+
+1.	Drivers from rural cities had the highest average fare per ride and the highest Average Fare per Driver. urban cities had the lowest average fare per ride and average fare per driver.
+2.	Urban cities had the highest total rides and highest total number of drivers. Rural cities had the lowest number of total rides and the lowest total number of drivers. 
+3.	The total number of drivers in urban cities outnumbered the total number of rides.
