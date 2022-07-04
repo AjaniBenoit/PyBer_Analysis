@@ -22,3 +22,8 @@ An exploratory analysis of the data revealed the following:
 1.	Drivers from rural cities had the highest average fare per ride and the highest average fare per driver. urban cities had the lowest average fare per ride and average fare per driver.
 2.	Urban cities had the highest total rides; the highest total fares; and highest total number of drivers. Rural cities had the lowest number of total rides; the lowest total fares; and the lowest total number of drivers. 
 3.	The total number of drivers in urban cities outnumbered the total number of rides.
+
+#### Total Fare by City Type 
+
+The groupby() function was used to group city type and date and calculate the sum of the fares from the merged Pyber data frame. A new data frame was created. The pivot function was used on the new data frame to set the date as the index for the data frame. The data frame was further manipulated with the weeks grouped to show the total fares by city type. 
+![Fig8.png]( https://github.com/AjaniBenoit/PyBer_Analysis/blob/main/Fig8.png)
