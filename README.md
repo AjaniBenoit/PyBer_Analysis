@@ -29,3 +29,11 @@ The groupby() function was used to group city type and date and calculate the su
 ![Fig8.png]( https://github.com/AjaniBenoit/PyBer_Analysis/blob/main/Fig8.png)
 
 The line chart plots fares in USD along the Y axis and the months along the X axis for each city type.The fares for Suburban and Urban cities peak in the latter part of February. Rural cities fares peak in April.
+
+### Summary
+
+1.	The average fare per ride was highest in rural cities and lowest in urban cities. Data on mileage driven should be include to determine if there is a correlation between the average fare per ride and miles driven. 
+2.	Urban cities had more drivers than total number of rides and the lowest average fare per driver. Additional analysis will need to be completed to determine if there is a correlation total rides and total drivers on average fare per driver. 
+3.	It is recommended that PyBer either focus on increasing the total number of rides in urban cities or reduce the number of drivers in urban cities. 
+4.	Further data and analysis should be collected and completed to determine if there are any factors that contribute to total rides being lower than total drivers in urban cities
+
