@@ -27,3 +27,5 @@ An exploratory analysis of the data revealed the following:
 
 The groupby() function was used to group city type and date and calculate the sum of the fares from the merged Pyber data frame. A new data frame was created. The pivot function was used on the new data frame to set the date as the index for the data frame. The data frame was further manipulated with the weeks grouped to show the total fares by city type before being plotted into a line chart.
 ![Fig8.png]( https://github.com/AjaniBenoit/PyBer_Analysis/blob/main/Fig8.png)
+
+The line chart plots fares in USD along the Y axis and the months along the X axis for each city type.The fares for Suburban and Cities peak in the latter part of February. Rural cities fares peak in April.
